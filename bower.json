@@ -1,0 +1,22 @@
+{
+  "name": "jquery-picture",
+  "description": "jQuery plugin to handle responsive images.",
+  "main": [
+    "js/jquery-picture.js",
+  ],
+  "dependencies": { },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/PJEstrada/jQuery-Picture"
+  },
+  "authors": [
+    "Abban Dunne "
+  ],
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": false
+}
