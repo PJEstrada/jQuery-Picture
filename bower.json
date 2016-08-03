@@ -2,7 +2,7 @@
   "name": "jquery-picture",
   "description": "jQuery plugin to handle responsive images.",
   "main": [
-    "js/jquery-picture.js",
+    "js/jquery-picture.js"
   ],
   "dependencies": { },
   "repository": {
